@@ -29,3 +29,4 @@ Descreva o que deverá ser feito para conseguir realizar o cenário acima. Lembr
 R: Utilizaremos o checkout para restaurar a branch que estamos trabalhando para voltarmos a última vesão que criamos,fazemos o pull para atualizar com a branch main, criamos uma nova branch para trabalhar o novo versionamento.
 
 
+                                                                         
